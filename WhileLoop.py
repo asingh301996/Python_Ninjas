@@ -47,3 +47,4 @@ while i < n:
 if is_prime:
     print("n is a prime no.")
 
+#
