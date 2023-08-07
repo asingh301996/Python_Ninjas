@@ -9,7 +9,7 @@ a='ANKITA'
 for i in a:
     print(a)
 
-if I want to print a sequence of a natural number
+# if I want to print a sequence of a natural number
 n =int(input())
 ''' range : a method which has 3 arguments
 [START, STOP-1, STRIDE]
