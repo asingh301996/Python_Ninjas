@@ -6,8 +6,8 @@ print (li[3])
 '''Everytime we do slicing, a new list is made in teh memory'''
 '''there are few methods like insert, append,extend, remove--> all these methods modfies the list IN PLACE
 (which means, no new list is created) '''
-'''Adding--> append, insert and exten methods
-Rmoving --> pop, remove and clear'''
+'''Adding--> append, insert and extend methods
+Removing --> pop, remove and clear'''
 
 # print(li[0:6:3])  # li[start(starts with 0,1,2..) : end(starts with 1,2,3,4...) : skip]
 
